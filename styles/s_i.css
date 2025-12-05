@@ -1,0 +1,30 @@
+body {
+    width: 800px;
+    margin: auto;
+
+    background-color: whitesmoke;
+}
+
+a {
+    text-decoration: none;
+    color: darkslategray;
+    display: block;
+    padding: 20px;
+}
+
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 100px;
+    padding: 24px;
+    background-color: darkslategray;
+    color: antiquewhite;
+}
+
+.b,
+.p,
+.l {
+    background-color: antiquewhite;
+    margin-bottom: 20px;
+    font-size: x-large;
+    text-align: center;
+}

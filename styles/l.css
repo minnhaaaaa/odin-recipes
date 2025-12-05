@@ -1,0 +1,44 @@
+body {
+    width: 700px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 40px;
+
+}
+
+h1 {
+    background-color: saddlebrown;
+    color: white;
+    width: 700px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+img {
+    padding-top: 20px;
+}
+
+h5 {
+    padding-bottom: 20px;
+}
+
+h3 {
+    padding-top: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+li {
+    padding: 5px;
+}
+
+button {
+    background-color: saddlebrown;
+    border-color: saddlebrown;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 20px;
+    margin: 30px;
+}
